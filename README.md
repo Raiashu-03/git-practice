@@ -9,3 +9,7 @@ This repository is used to practice Git commands and Git workflows.
 - Merging
 - GitHub
 - Pull Requests
+
+## Practice
+
+Learning Git step by step.
